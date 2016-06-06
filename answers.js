@@ -3,7 +3,7 @@ function answer_1() {
 }
 
 function answer_2() {
-	document.getElementById("q2-answer").innerHTML = "<ul><li>1. HTML 파일을 객체로 표현 할 수 있어서 쉽게 접근 가능하다.</li><li>2. HTML 태그가 루트인 곳을 트리 구조로 표현한다.</li></ul>";
+	document.getElementById("q2-answer").innerHTML = "<ul><li>1. DOM에 접근하여 HTML을 수정 할 수 있다.</li><li>2. 페이지에서 일어나는 이벤트에 반응할 수 있다.</li></ul>";
 }
 
 function answer_3() {
